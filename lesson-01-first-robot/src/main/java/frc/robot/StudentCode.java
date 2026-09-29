@@ -31,7 +31,7 @@ public final class StudentCode {
     // Task 1: run and change the program.
     // Press X and find this message in the console. Then change the words, save, restart the
     // simulator and press X again. Did the output change?
-    System.out.println("Hello from Danny :)");
+  System.out.println("Hello from WILL");
 
     // Task 2: use variables.
     // A variable is a labeled box that stores one value. Write the TYPE first, then the NAME,
